@@ -2,6 +2,6 @@
     <string name="app_name">Card</string>
     <string name="toname">悠悠</string>
     <string name="fromname">何睿文</string>
-    <string name="content">生日快乐！！！ 愿你平安顺遂，喜乐无忧； 所行皆坦途，所愿皆可期。</string>
+    <string name="content">生日快乐！！！\n愿你平安顺遂，喜乐无忧；\n所行皆坦途，所愿皆可期。</string>
     <string name="date">2021.09.14</string>
 </resources>
